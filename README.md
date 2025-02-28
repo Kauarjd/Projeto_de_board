@@ -3,6 +3,12 @@
 ## Descrição
 Este projeto é um sistema de gerenciamento de tarefas (task board) que permite criar boards, colunas e cards para organizar tarefas. Ele foi desenvolvido usando Spring Boot e MySQL.
 
+## Funcionalidades
+- Criação e gerenciamento de boards.
+- Adição de colunas a um board.
+- Criação e movimentação de cards entre colunas.
+- Bloqueio e desbloqueio de cards com justificativa.
+
 ## Diagrama de Classes (Domínio da API)
 
 ```mermaid
